@@ -1,7 +1,9 @@
 # MQTT Sonoff Devices
 This code includes use cases for garage door openers, door snesors, and other Sonoff projects.
--> A smart wireless mqtt door sensor
--> A smart garage
+
+# Use Cases
+- A smart wireless mqtt door sensor
+- A smart garage
 
 
 ## Gear ##
