@@ -1,5 +1,7 @@
-# Wireless WiFi MQTT Doorbell Reed Switch Sensor and Sonoff SV
-A smart wireless mqtt doorbell from a cheap $4 door magnet from Amazon
+# MQTT Sonoff Devices
+This code includes use cases for garage door openers, door snesors, and other Sonoff projects.
+-> A smart wireless mqtt door sensor
+-> A smart garage
 
 
 ## Gear ##
