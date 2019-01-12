@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=xCQoOZNdaGY
 ## DEVICE CLASS ##
 #### The way these sensors are displayed in the frontend can be modified in the customize section. The following device classes are supported for binary sensors: ####
 
-None: Generic on/off. This is the default and doesn’t need to be set.
-battery: On means low, Off means normal
+None: Generic on/off. This is the default and doesn’t need to be set.__
+battery: On means low, Off means normal__
 cold: On means cold, Off means normal
 connectivity: On means connected, Off means disconnected
 door: On means open, Off means closed
